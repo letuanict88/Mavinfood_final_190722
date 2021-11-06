@@ -364,6 +364,11 @@
 							<type>boolean</type>
 						</property>
 						<property>
+							<name>enableSpellCheck</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
 							<name>forceRootBlockPTag</name>
 							<value>true</value>
 							<type>boolean</type>
@@ -402,11 +407,6 @@
 							<name>fileManager</name>
 							<value></value>
 							<type>datasource:item</type>
-						</property>
-						<property>
-							<name>enableSpellCheck</name>
-							<value>true</value>
-							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
