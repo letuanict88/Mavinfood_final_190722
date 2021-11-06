@@ -30,9 +30,45 @@
 	<lastModifiedDate_dt>2021-11-06T04:31:19.273Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<section_o item-list="true"/>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>77c2b622-4f06-945f-ba80-761a1fab1c84</key>
+	<value>Content</value>
+<component id="77c2b622-4f06-945f-ba80-761a1fab1c84">
+	<content-type>/component/encomlienhe</content-type>
+	<display-template>/templates/web/components/en/lienhe.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>77c2</objectGroupId>
+	<objectId>77c2b622-4f06-945f-ba80-761a1fab1c84</objectId>
+	<file-name>77c2b622-4f06-945f-ba80-761a1fab1c84.xml</file-name>
+	<internal-name>Content</internal-name>
+	<name_s>MAVIN FOODS JOINT VENTURE CO., LTD</name_s>
+	<bank_s/>
+	<tax_s/>
+	<place_o item-list="true">	<item>	<title_s>Factory</title_s>
+	<map_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238676.41826440088!2d105.74440443923444!3d20.818819666172075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135adc96b676a81%3A0xd035f99cd62c64b4!2zQ8O0bmcgdHkgQ-G7lSBwaOG6p24gVOG6rXAgxJFvw6BuIE1hdmlu!5e0!3m2!1svi!2s!4v1628148859389!5m2!1svi!2s" width="514" height="338" style="border:0;" allowfullscreen="" loading="lazy"&gt;&lt;/iframe&gt;</map_s>
+	<image_s>/static-assets/images/lien-he/tru-so-chinh.jpg</image_s>
+	<content_html>&lt;p&gt;Factory: E6 - Dong Van II Industrial Park - Duy Tien - Ha Nam&lt;/p&gt;
+&lt;p&gt;Tel: 0226 3 582 889&lt;/p&gt;
+&lt;p&gt;Fax: 0226 3 582 669&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href="mailto:contact@mavinfood.com"&gt;contact@mavinfood.com &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Website: www.mavinfood.com&lt;/p&gt;</content_html>
+	</item>	<item>	<image_s>/static-assets/images/lien-he/van-phong-dai-dien.jpg</image_s>
+	<title_s>Head Office</title_s>
+	<content_html>&lt;p&gt;Address: 1st Floor, Hudland Building, No. 6 Nguyen Huu Tho, Hoang Liet Ward, Hoang Mai District, Ha Noi&lt;/p&gt;
+&lt;p&gt;Tel: 0243.5585 666&lt;/p&gt;
+&lt;p&gt;Fax: 0243 5586 555&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href="mailto:contact@mavinfood.com"&gt;contact@mavinfood.com &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Website: www.mavinfood.com&lt;/p&gt;</content_html>
+	<map_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238676.41826440088!2d105.74440443923444!3d20.818819666172075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135adc96b676a81%3A0xd035f99cd62c64b4!2zQ8O0bmcgdHkgQ-G7lSBwaOG6p24gVOG6rXAgxJFvw6BuIE1hdmlu!5e0!3m2!1svi!2s!4v1628148859389!5m2!1svi!2s" width="514" height="338" style="border:0;" allowfullscreen="" loading="lazy"&gt;&lt;/iframe&gt;</map_s>
+	</item></place_o>
+	<createdDate>2021-11-06T05:11:50.365Z</createdDate>
+	<createdDate_dt>2021-11-06T05:11:50.365Z</createdDate_dt>
+	<lastModifiedDate>2021-11-06T05:11:50.365Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-06T05:11:50.365Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
 	<createdDate>2021-11-06T04:29:06.210Z</createdDate>
 	<createdDate_dt>2021-11-06T04:29:06.210Z</createdDate_dt>
-	<lastModifiedDate>2021-11-06T05:01:43.415Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-06T05:01:43.415Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-06T05:11:40.234Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-06T05:11:40.234Z</lastModifiedDate_dt>
 </page>
