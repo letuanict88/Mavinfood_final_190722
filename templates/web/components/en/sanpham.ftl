@@ -38,18 +38,18 @@
         </div>
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-evenly p-4 base-bg-color text-white">
           <div class="fw-bold text-uppercase fs-5 text-center text-md-start mb-3 mb-md-0">
-            TRUY XUẤT <br>NGUỒN GỐC <br>SẢN PHẨM
+            Product Traceability
           </div>
           <div class="mb-3 mb-md-0">
             <img src="/static-assets/dist/images/logo-circle2.png" alt="" width="155" height="155">
           </div>
           <div class="fs-7">
-            <p>Cách 1: <strong>Dùng điện thoại quét mã QR in trên bao bì</strong></p>
-            <p>Cách 2: <strong>Nhập mã số mã vạch in trên bao bì vào ô bên dưới để tra cứu thông tin</strong></p>
+            <p>1: <strong>User smart phone and scan the QR code on the product package</strong></p>
+            <p>2: <strong>Enter the barcode on the product package in the box below to search for information</strong></p>
             <form action="/api/1/services/searchProductSku.json" method="GET">
             <div class="row g-3 align-items-center">
               <div class="col-auto">
-                <input type="text" id="skuVal" class="form-control form-control-sm" aria-describedby="" placeholder="Nhập mã số mã vạch...">
+                <input type="text" id="skuVal" class="form-control form-control-sm" aria-describedby="" placeholder="Enter the barcode...">
               </div>
               <div class="col-auto">
                 <button onclick="searchSku()" class="btn btn-sm btn-light rounded-circle base-color" type="submit" style="width: 31px; height: 31px;"><i class="fas fa-caret-right fa-lg"></i></button>
