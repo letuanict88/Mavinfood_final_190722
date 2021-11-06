@@ -16,7 +16,7 @@
           <div class="col-lg-8">
             <div class="row">
               <div class="col-sm-4 col-lg-3">
-                <div class="fw-bold mb-3">Connect to Mavin Foods</div>
+                <div class="fw-bold mb-3" style="font-size: .95rem;">Connect to Mavin Foods</div>
                 <div class="d-flex mb-3">
                 <#list contentModel.socialMedia_o.item as social>
                   <a class="px-1" href="${social.link_s}"><img src="${social.logo_s}" alt=""></a>
@@ -28,7 +28,7 @@
                 </div>
               </div>
               <div class="col-sm-4 col-lg-5">
-                <div class="fw-bold mb-3">${contentModel.desPoli_s}</div>
+                <div class="fw-bold mb-3" style="font-size: .85em;">${contentModel.desPoli_s}</div>
                 <ul class="list-unstyled">
                   <#list contentModel.policies_o.item as policy>
                   <li><a class="text-white" href="${policy.link_s}" style="font-size: .85em;">${policy.content_s}</a></li>
