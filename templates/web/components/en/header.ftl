@@ -43,8 +43,8 @@
           </ul>
 
           <ul class="list-unstyled d-flex flex-column justify-content-end col-custom">
-            <a href="/en/recuitment"><p class="fw-bold text-white mb-2">Recuitment</p></a>
-            <li class="mb-2"><a class="text-white" href="/en/recuitment">Recuitment News</a></li>
+            <a href="/en/recuitment"><p class="fw-bold text-white mb-2">Recruitment</p></a>
+            <li class="mb-2"><a class="text-white" href="/en/recuitment">Recruitment News</a></li>
             <li class="mb-2"><a class="text-white" href="/en/recuitment">Personnel Policy</a></li>          
           </ul>
 
@@ -152,7 +152,7 @@
               </ul>
             </li>
             <li class="nav-item menu-item">
-              <a class="nav-link" href="/en/recuitment">Recuitment</a>
+              <a class="nav-link" href="/en/recuitment">Recruitment</a>
             </li>
             <li class="nav-item menu-item">
               <a class="nav-link" href="/en/contact-us">Contact Us</a>
