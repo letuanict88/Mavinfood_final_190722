@@ -62,7 +62,7 @@
           </div>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for="" class="col-form-label" style="color: #6e6e6e;"><strong></strong></label>
+              <label for="" class="col-form-label" style="color: #6e6e6e;"><strong>Content</strong></label>
             </div>
             <div class="col-sm-10">
               <textarea class="form-control" name ="content"></textarea>
