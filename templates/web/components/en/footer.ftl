@@ -31,7 +31,7 @@
                 <div class="fw-bold mb-3">${contentModel.desPoli_s}</div>
                 <ul class="list-unstyled">
                   <#list contentModel.policies_o.item as policy>
-                  <li><a class="text-white" href="${policy.link_s}">${policy.content_s}</a></li>
+                  <li><a class="text-white" href="${policy.link_s}" style="font-size: .85em;">${policy.content_s}</a></li>
                   </#list>
                 </ul>
               </div>
