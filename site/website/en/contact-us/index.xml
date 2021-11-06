@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>858e</objectGroupId>
+	<objectId>858eeac0-87e1-7873-af54-5e4a7e8c42d8</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Contact Us</internal-name>
+	<navLabel>Contact Us</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>contact-us</folder-name>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>cdd91557-60eb-f40c-121d-799fda90397f</key>
+	<value>Slide</value>
+<component id="cdd91557-60eb-f40c-121d-799fda90397f">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cdd9</objectGroupId>
+	<objectId>cdd91557-60eb-f40c-121d-799fda90397f</objectId>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<file-name>cdd91557-60eb-f40c-121d-799fda90397f.xml</file-name>
+	<createdDate>2021-11-06T04:31:19.273Z</createdDate>
+	<createdDate_dt>2021-11-06T04:31:19.273Z</createdDate_dt>
+	<lastModifiedDate>2021-11-06T04:31:19.273Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-06T04:31:19.273Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true"/>
+	<createdDate>2021-11-06T04:29:06.210Z</createdDate>
+	<createdDate_dt>2021-11-06T04:29:06.210Z</createdDate_dt>
+	<lastModifiedDate>2021-11-06T04:29:06.210Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-06T04:29:06.210Z</lastModifiedDate_dt>
+</page>
