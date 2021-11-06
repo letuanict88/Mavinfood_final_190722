@@ -47,8 +47,7 @@
 	<place_o item-list="true">	<item>	<title_s>Factory</title_s>
 	<map_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238676.41826440088!2d105.74440443923444!3d20.818819666172075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135adc96b676a81%3A0xd035f99cd62c64b4!2zQ8O0bmcgdHkgQ-G7lSBwaOG6p24gVOG6rXAgxJFvw6BuIE1hdmlu!5e0!3m2!1svi!2s!4v1628148859389!5m2!1svi!2s" width="514" height="338" style="border:0;" allowfullscreen="" loading="lazy"&gt;&lt;/iframe&gt;</map_s>
 	<image_s>/static-assets/images/lien-he/tru-so-chinh.jpg</image_s>
-	<content_html>&lt;p&gt;Address: E6 - Dong Van II Industrial Park&lt;/p&gt;
-&lt;p&gt;Duy Tien - Ha Nam&lt;/p&gt;
+	<content_html>&lt;p&gt;Address: E6 - Dong Van II Industrial Park Duy Tien - Ha Nam&lt;/p&gt;
 &lt;p&gt;Tel: 0226 3 582 889&lt;/p&gt;
 &lt;p&gt;Fax: 0226 3 582 669&lt;/p&gt;
 &lt;p&gt;Email: &lt;a href="mailto:contact@mavinfood.com"&gt;contact@mavinfood.com &lt;/a&gt;&lt;/p&gt;
@@ -64,12 +63,12 @@
 	</item></place_o>
 	<createdDate>2021-11-06T05:11:50.365Z</createdDate>
 	<createdDate_dt>2021-11-06T05:11:50.365Z</createdDate_dt>
-	<lastModifiedDate>2021-11-06T05:17:07.055Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-06T05:17:07.055Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-06T05:20:32.275Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-06T05:20:32.275Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-11-06T04:29:06.210Z</createdDate>
 	<createdDate_dt>2021-11-06T04:29:06.210Z</createdDate_dt>
-	<lastModifiedDate>2021-11-06T05:17:00.423Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-06T05:17:00.423Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-06T05:20:21.844Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-06T05:20:21.844Z</lastModifiedDate_dt>
 </page>
