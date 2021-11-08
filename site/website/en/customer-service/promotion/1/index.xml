@@ -15,6 +15,10 @@
 	<name_s>1</name_s>
 	<createdDate>2021-11-08T02:44:40.904Z</createdDate>
 	<createdDate_dt>2021-11-08T02:44:40.904Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T02:44:40.904Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T02:44:40.904Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T03:01:28.666Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T03:01:28.666Z</lastModifiedDate_dt>
+	<pdffile_o item-list="true">	<item datasource="existingFile">	<key>/static-assets/images/file/BCTC ban nien 2020.pdf</key>
+	<value>/static-assets/images/file/BCTC ban nien 2020.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	</item></pdffile_o>
 </page>
