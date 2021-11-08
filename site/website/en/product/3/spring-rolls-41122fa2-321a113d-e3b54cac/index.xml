@@ -12,14 +12,14 @@
 	<file-name>index.xml</file-name>
 	<folder-name>spring-rolls-41122fa2-321a113d-e3b54cac</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<isHot_b>true</isHot_b>
-	<internal-name>Boiled Chicken Spring Rolls e3b54cac</internal-name>
-	<navLabel>Boiled Chicken Spring Rolls</navLabel>
-	<name_s>Boiled Chicken Spring Rolls</name_s>
+	<internal-name>Fried Pork Spring Rolls</internal-name>
+	<navLabel>Fried Pork Spring Rolls</navLabel>
+	<name_s>Fried Pork Spring Rolls</name_s>
 	<kl_s>1 kg</kl_s>
 	<price_s>90000</price_s>
-	<sku_s>8936082676265</sku_s>
+	<sku_s>8936082676234</sku_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>0a89e670-9055-9d93-8875-6c800b2e6628</key>
 	<value>Slide</value>
 <component id="0a89e670-9055-9d93-8875-6c800b2e6628">
@@ -38,15 +38,15 @@
 	<lastModifiedDate_dt>2021-11-08T10:01:36.799Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<image1_s>/static-assets/images/san-pham/Gio Ga Mavin 1.png</image1_s>
-	<image2_s>/static-assets/images/san-pham/Gio Ga Mavin 3.png</image2_s>
-	<image3_s>/static-assets/images/san-pham/Gio Ga Mavin 2.png</image3_s>
+	<image1_s>/static-assets/images/san-pham/Cha Lua Mavin 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Cha Lua Mavin 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Cha Lua Mavin 2.png</image3_s>
 	<content_html>&lt;p style="text-align: justify;"&gt;Still in the Gio product line, Mavin develops more product codes: Cha Lua, Gio Ga and Cha Ga to serve the increasingly diverse consumer needs. If the Gio Lua and Cha Lua lines with the main ingredient are pork, bringing with them the typical flavor of cooked pork mixed in the traditional fish sauce, the Gio Ga and Cha Ga lines will let people feel the taste. The sweet aroma of chicken is distinct.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Smart housewives can fry, process, or eat with traditional Vietnamese dishes such as: Banh cuon cha; Fried spring rolls with sauce/tomato; Sausage / Sausage sauce; Sausage / Sausage with pepper / soy sauce; Stir-fried spring rolls/porridge with mushrooms/vermicelli; Spring rolls/Chicken salad with vegetables and fruits; Spring rolls/Cha are served with vermicelli, sticky rice, fried rice....to change the family menu every day to be more lively and nutritious.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Packing: 1kg/plant or 500g/plant depending on customer's request;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Instructions for use: Products are eaten immediately, fried or processed into favorite dishes.&lt;/p&gt;</content_html>
 	<createdDate>2021-11-08T09:58:01.204Z</createdDate>
 	<createdDate_dt>2021-11-08T09:58:01.204Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T10:04:58.348Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T10:04:58.348Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T10:06:52.976Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:06:52.976Z</lastModifiedDate_dt>
 </page>
