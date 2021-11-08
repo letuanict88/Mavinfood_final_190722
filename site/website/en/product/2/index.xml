@@ -8,8 +8,8 @@
 	<objectId>6610eb0b-89b8-45cc-bdf1-a56303e263a0</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>2</folder-name>
-	<internal-name>Cat lat</internal-name>
-	<navLabel>Cat lat</navLabel>
+	<internal-name>Cold Cuts</internal-name>
+	<navLabel>Cold Cuts</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>1020548a-f008-5c09-b83c-8b526615b0b0</key>
@@ -31,7 +31,7 @@
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>77e4fcc9-c58c-73fc-837e-eb8a8403034e</key>
-	<value>Cat lat</value>
+	<value>Cold Cuts</value>
 <component id="77e4fcc9-c58c-73fc-837e-eb8a8403034e">
 	<content-type>/component/encomgroupsp</content-type>
 	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
@@ -40,23 +40,24 @@
 	<objectGroupId>77e4</objectGroupId>
 	<objectId>77e4fcc9-c58c-73fc-837e-eb8a8403034e</objectId>
 	<file-name>77e4fcc9-c58c-73fc-837e-eb8a8403034e.xml</file-name>
-	<internal-name>Cat lat</internal-name>
-	<title_s>Cat lat</title_s>
+	<internal-name>Cold Cuts</internal-name>
+	<title_s>Cold Cuts</title_s>
 	<image_s>/static-assets/images/san-pham/SP cat lat 1.png</image_s>
 	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/d6e7a64d-9a33-8c51-a61c-a2a79641744b.xml</key>
 	<value>Cat lat</value>
 	<include>/site/items/d6e7a64d-9a33-8c51-a61c-a2a79641744b.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></groupproduct_o>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;Mavin's products are made from clean pork, selected from high quality breeding sources in the world and raised safely on Mavin Farm's farms. Here, pigs are strictly prevented from disease and are fed with high quality feed, produced on production lines completely imported from Switzerland. Mavin controls safe slaughter, storage and processing to ISO 22000 and HACCP standards, ensuring clean and safe products are delivered to users.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin's experts are those who have many years of experience in the food industry in Germany, bringing German culinary secrets to Vietnam, with the desire to give customers the opportunity to enjoy quintessential products. German cuisine - a world famous country for processed foods.&lt;/p&gt;</content_html>
 	<createdDate>2021-09-30T09:15:43.459Z</createdDate>
 	<createdDate_dt>2021-09-30T09:15:43.459Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:15:43.459Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:15:43.459Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T02:44:15.973Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:44:15.973Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-09-30T09:04:01.967Z</createdDate>
 	<createdDate_dt>2021-09-30T09:04:01.967Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:13:41.817Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:13:41.817Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T02:44:04.262Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:44:04.262Z</lastModifiedDate_dt>
 </page>
