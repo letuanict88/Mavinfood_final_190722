@@ -8,8 +8,8 @@
 	<objectId>99e69498-34b4-7fd9-bcf3-36f359e81785</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>5</folder-name>
-	<internal-name>SP khac</internal-name>
-	<navLabel>SP khac</navLabel>
+	<internal-name>Other Products</internal-name>
+	<navLabel>Other Products</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>3abce609-dd3f-cb4a-571b-7c24de146018</key>
@@ -31,7 +31,7 @@
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>0d3c8613-7c5e-98f6-0176-1f97eaeadf7a</key>
-	<value>SP khac</value>
+	<value>Other Products</value>
 <component id="0d3c8613-7c5e-98f6-0176-1f97eaeadf7a">
 	<content-type>/component/encomgroupsp</content-type>
 	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
@@ -39,8 +39,8 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>0d3c</objectGroupId>
 	<objectId>0d3c8613-7c5e-98f6-0176-1f97eaeadf7a</objectId>
-	<internal-name>SP khac</internal-name>
-	<title_s>SP khac</title_s>
+	<internal-name>Other Products</internal-name>
+	<title_s>Other Products</title_s>
 	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/c011ab49-3f31-6743-4a8b-f6d7ce3d4832.xml</key>
 	<value>SP khac</value>
 	<include>/site/items/c011ab49-3f31-6743-4a8b-f6d7ce3d4832.xml</include>
@@ -48,15 +48,18 @@
 	</item></groupproduct_o>
 	<file-name>0d3c8613-7c5e-98f6-0176-1f97eaeadf7a.xml</file-name>
 	<image_s>/static-assets/images/san-pham/SP khac.png</image_s>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;Pate (from the French root: p&amp;acirc;t&amp;eacute;) is a puree (powdered) food or dish prepared from the meat and liver of animals and other spices. Meat for pate is usually made from solid organ meats, such as liver (most common) and with added fat, vegetables, spices, wine, and other ingredients to taste.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The French word "p&amp;acirc;t&amp;eacute;" is reserved for a mixture of minced meat and fat. P&amp;acirc;t&amp;eacute; is often used as a sandwich with bread or sandwiches. It is a very easy and convenient dish in breakfast for those in a hurry to go to work or leisurely travel. In Vietnam, p&amp;acirc;t&amp;eacute; has been processed according to Vietnamese style, that is, people often use the liver of the animal (usually pork liver), so in Vietnam sometimes people call p&amp;acirc;t&amp;eacute; with the pure Vietnamese name of liver grind.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin's Pate products are made from clean pork, selected from high quality breeding sources in the world and raised safely on Mavin's farms. Here, pigs are strictly prevented from disease and are fed with high quality feed, produced on production lines completely imported from Switzerland. Mavin controls safe slaughter, storage and processing to ISO 22000 and HACCP standards, ensuring clean and safe products are delivered to users.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin's experts are those who have many years of experience in the food industry in Germany, bringing German culinary secrets to Vietnam, with the desire to give customers the opportunity to enjoy quintessential products. German cuisine - a world famous country for processed foods.&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2021-09-30T09:22:25.445Z</createdDate>
 	<createdDate_dt>2021-09-30T09:22:25.445Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:22:25.445Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:22:25.445Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T02:45:25.361Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:45:25.361Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-09-30T09:21:28.090Z</createdDate>
 	<createdDate_dt>2021-09-30T09:21:28.090Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:21:28.090Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:21:28.090Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T02:45:06.581Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:45:06.581Z</lastModifiedDate_dt>
 </page>
