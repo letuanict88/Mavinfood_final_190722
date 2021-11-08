@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>931d</objectGroupId>
+	<objectId>931d14e8-252f-6b70-741b-f3fbe310833d</objectId>
+	<internal-name>Tuyển dụng ngành thức ăn chăn nuôi tháng 11/2021</internal-name>
+	<navLabel>Tuyển dụng ngành thức ăn chăn nuôi tháng 11/2021</navLabel>
+	<title_s>Tuyển dụng ngành thức ăn chăn nuôi tháng 11/2021</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tuyen-dung-nhan-vien-tacn</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s/>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>a70b8485-2a6b-aaba-b611-329ef66abb75</key>
+	<value>slide</value>
+<component id="a70b8485-2a6b-aaba-b611-329ef66abb75">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a70b</objectGroupId>
+	<objectId>a70b8485-2a6b-aaba-b611-329ef66abb75</objectId>
+	<file-name>a70b8485-2a6b-aaba-b611-329ef66abb75.xml</file-name>
+	<internal-name>slide</internal-name>
+	<image_s>/static-assets/images/header/Mavinfoodslide3.jpg</image_s>
+	<createdDate>2021-11-08T07:12:07.727Z</createdDate>
+	<createdDate_dt>2021-11-08T07:12:07.727Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T07:12:07.727Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T07:12:07.727Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;&lt;strong&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/new/TBtuyendungfeed.jpg" alt="" width="800" height="1134" /&gt;&lt;/strong&gt;&lt;/p&gt;</content_html>
+	<date_dt>2021-11-08T05:00:00.000Z</date_dt>
+	<createdDate>2021-11-08T07:09:54.718Z</createdDate>
+	<createdDate_dt>2021-11-08T07:09:54.718Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T07:09:54.718Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T07:09:54.718Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
