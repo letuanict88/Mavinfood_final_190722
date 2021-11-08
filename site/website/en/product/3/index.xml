@@ -8,8 +8,8 @@
 	<objectId>01f155f1-f2c0-4b38-8b0a-ad0ca3ded2ed</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>3</folder-name>
-	<internal-name>Gio cha</internal-name>
-	<navLabel>Gio cha</navLabel>
+	<internal-name>Spring Rolls </internal-name>
+	<navLabel>Spring Rolls </navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>1020548a-f008-5c09-b83c-8b526615b0b0</key>
@@ -31,7 +31,7 @@
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>a54afd37-f6ed-6c44-4b23-b889eed4a386</key>
-	<value>Gio cha</value>
+	<value>Spring Rolls </value>
 <component id="a54afd37-f6ed-6c44-4b23-b889eed4a386">
 	<content-type>/component/encomgroupsp</content-type>
 	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
@@ -41,22 +41,25 @@
 	<objectId>a54afd37-f6ed-6c44-4b23-b889eed4a386</objectId>
 	<file-name>a54afd37-f6ed-6c44-4b23-b889eed4a386.xml</file-name>
 	<image_s>/static-assets/images/san-pham/Gio cha 1A.png</image_s>
-	<internal-name>Gio cha</internal-name>
-	<title_s>Gio cha</title_s>
+	<internal-name>Spring Rolls </internal-name>
+	<title_s>Spring Rolls </title_s>
 	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/86461d07-52f5-e11a-4ae3-876b2c6650b7.xml</key>
 	<value>Gio cha</value>
 	<include>/site/items/86461d07-52f5-e11a-4ae3-876b2c6650b7.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></groupproduct_o>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;When the New Year comes, in every family's meal, it is definitely indispensable to have Spring Rolls (Gio Cha). Spring Roll has become a traditional dish carrying the beauty of traditional culinary culture of the Vietnamese people.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In order to create opportunities for customers to have more choices when enjoying Spring cuisine, Mavin has launched Mavin Spring Rolls products. Mavin sausage products include Boiled Pork Spring Rolls (Gio Lua), Fried Pork Spring Rolls (Cha Lua), Boiled Chicken Spring Rolls (Gio Ga), Fried Chicken Spring Rolls (Cha Ga).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Products are manufactured from materials produced by Mavin in a closed chain "From Farm to Table", ensuring international quality management standards such as HACCP and ISO 22000. The source of raw materials is also selected. carefully selected, ensuring freshness, deliciousness, safety, nutrients and traceability.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In particular, housewives can process a variety of family dishes every day with Mavin's Spring Rolls in a very quick time, only takes 2-4 minutes, very convenient and saves time and suitable for modern life.&lt;/p&gt;</content_html>
 	<createdDate>2021-09-30T09:11:17.918Z</createdDate>
 	<createdDate_dt>2021-09-30T09:11:17.918Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:11:17.918Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:11:17.918Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T02:41:38.397Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:41:38.397Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-09-30T09:04:01.967Z</createdDate>
 	<createdDate_dt>2021-09-30T09:04:01.967Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:10:48.387Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:10:48.387Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T02:41:23.578Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:41:23.578Z</lastModifiedDate_dt>
 </page>
