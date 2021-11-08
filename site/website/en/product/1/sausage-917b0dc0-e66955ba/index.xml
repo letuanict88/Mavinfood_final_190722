@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagespchitiet</content-type>
+	<display-template>/templates/web/pages/en/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7a293a5a</objectGroupId>
+	<objectId>7a293a5a-0996-4d5b-a0ed-259c63dd9134</objectId>
+	<internal-name>Berliner e66955ba</internal-name>
+	<navLabel>Berliner</navLabel>
+	<name_s>Berliner</name_s>
+	<kl_s>500 g/pack</kl_s>
+	<price_s>45000</price_s>
+	<sku_s>8936082670003</sku_s>
+	<sptype_o>	<item>	<key> sausage</key>
+	<value_smv> sausage</value_smv>
+	</item></sptype_o>
+	<file-name>index.xml</file-name>
+	<folder-name>sausage-917b0dc0-e66955ba</folder-name>
+	<isHot_b>true</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<image1_s>/static-assets/images/san-pham/XX Berliner 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Berliner 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Berliner 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>c952823e-d8bd-7a8a-b322-77465738e4bc</key>
+	<value>slide</value>
+<component id="c952823e-d8bd-7a8a-b322-77465738e4bc">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c952</objectGroupId>
+	<objectId>c952823e-d8bd-7a8a-b322-77465738e4bc</objectId>
+	<file-name>c952823e-d8bd-7a8a-b322-77465738e4bc.xml</file-name>
+	<internal-name>slide</internal-name>
+	<image_s>/static-assets/images/header/Mavinfoodslide8.jpg</image_s>
+	<createdDate>2021-11-08T09:28:35.072Z</createdDate>
+	<createdDate_dt>2021-11-08T09:28:35.072Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T09:28:35.072Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:28:35.072Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;With pork ingredients over 60%, along with lard, salt, pepper, coriander, natural smoke and typical spices, Berliner is one of Mavin's premium Pork sausage lines. Berliner also has more family-friendly prices in Mavin's premium product division.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Product Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="text-align: justify;"&gt;-Main ingredients are pork (over 60%) with lard, salt, pepper, coriander seeds, natural smoke and typical spices;&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-High nutritional content, ensuring food safety;&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-The price is suitable for family consumption.&lt;/div&gt;</content_html>
+	<createdDate>2021-11-08T09:24:41.857Z</createdDate>
+	<createdDate_dt>2021-11-08T09:24:41.857Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T09:29:21.619Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:29:21.619Z</lastModifiedDate_dt>
+</page>
