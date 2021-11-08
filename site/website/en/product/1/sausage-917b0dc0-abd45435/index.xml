@@ -12,8 +12,8 @@
 	<kl_s>500 g/pack</kl_s>
 	<price_s>82000</price_s>
 	<sku_s>8936082676005</sku_s>
-	<sptype_o>	<item>	<key> sausage</key>
-	<value_smv> sausage</value_smv>
+	<sptype_o>	<item>	<key>xx</key>
+	<value_smv>xx</value_smv>
 	</item></sptype_o>
 	<file-name>index.xml</file-name>
 	<folder-name>sausage-917b0dc0-abd45435</folder-name>
@@ -50,6 +50,6 @@
 &lt;div style="text-align: justify;"&gt;-High nutritional content, ensuring food safety.&lt;/div&gt;</content_html>
 	<createdDate>2021-11-08T09:24:41.857Z</createdDate>
 	<createdDate_dt>2021-11-08T09:24:41.857Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T09:35:16.574Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T09:35:16.574Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T10:59:10.828Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:59:10.828Z</lastModifiedDate_dt>
 </page>
