@@ -10,15 +10,15 @@
 	<folder-name>1</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<internal-name>1</internal-name>
-	<navLabel>1</navLabel>
-	<name_s>1</name_s>
+	<internal-name>Delivery support for customer in social distancing</internal-name>
+	<navLabel>Delivery support for customer in social distancing</navLabel>
+	<name_s>Delivery support for customer in social distancing</name_s>
 	<createdDate>2021-11-08T02:44:40.904Z</createdDate>
 	<createdDate_dt>2021-11-08T02:44:40.904Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T03:01:28.666Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T03:01:28.666Z</lastModifiedDate_dt>
-	<pdffile_o item-list="true">	<item datasource="existingFile">	<key>/static-assets/images/file/BCTC ban nien 2020.pdf</key>
-	<value>/static-assets/images/file/BCTC ban nien 2020.pdf</value>
+	<lastModifiedDate>2021-11-08T06:26:14.309Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T06:26:14.309Z</lastModifiedDate_dt>
+	<pdffile_o item-list="true">	<item datasource="existingFile">	<key>/static-assets/images/file/Ho tro giao hang tan nha T9 Mavin Foods.pdf</key>
+	<value>/static-assets/images/file/Ho tro giao hang tan nha T9 Mavin Foods.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
 	</item></pdffile_o>
 </page>
