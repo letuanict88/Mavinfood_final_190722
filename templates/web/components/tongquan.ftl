@@ -50,7 +50,7 @@
           <h3 class="fw-bold text-uppercase base-color h4">lịch sử hình thành</h3>
           <div class="row mb-5">
             <div class="col-md-6">
-              <img src="/static-assets/dist/temp/company.jpg" alt="" class="img-thumbnail shadow-sm mb-3 mb-md-0">
+              <img src="/static-assets/images/factory.jpg" alt="" class="img-thumbnail shadow-sm mb-3 mb-md-0">
             </div>
             <div class="col-md-6" style="text-align: justify;display: flex;flex-direction: column;justify-content: space-between; font-size: 15px;">
               <p>Công ty TNHH Liên doanh Thực phẩm Mavin là một thành viên của Tập đoàn Mavin. Chúng tôi là một trong số rất ít các doanh nghiệp tại Việt Nam, áp dụng được mô hình sản xuất “Từ Nông trại tới Bàn ăn”, với chuỗi giá trị khép kín, từ khâu thức ăn chăn nuôi, con giống, chăn nuôi cho đến chế biến và cung cấp thực phẩm chất lượng cao, đảm bảo yêu cầu vệ sinh an toàn đến tay người tiêu dùng.
