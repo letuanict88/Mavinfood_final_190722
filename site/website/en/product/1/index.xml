@@ -43,9 +43,9 @@
 	<internal-name>Sausage</internal-name>
 	<title_s>Sausage</title_s>
 	<image_s>/static-assets/images/san-pham/xuc-xich1.png</image_s>
-	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/1f995aee-4e5f-b8ed-0b90-891143f98166.xml</key>
-	<value>xuc xich</value>
-	<include>/site/items/1f995aee-4e5f-b8ed-0b90-891143f98166.xml</include>
+	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/19dae2b8-5036-6e35-64e2-fda1def0ee76.xml</key>
+	<value> sausage</value>
+	<include>/site/items/19dae2b8-5036-6e35-64e2-fda1def0ee76.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></groupproduct_o>
 	<content_html>&lt;p style="text-align: justify;"&gt;Sausage is a strong product of Mavin in the Vietnamese market. Mavin sausage has its own unique flavor, made according to the secret of leading culinary experts from Germany, with European culinary standards. Mavin sausage is made from clean pork, selected from high-quality breeding sources in the world and raised safely at Mavin Farm's farms. Here, pigs are strictly prevented from disease and are fed with high quality feed, produced on production lines completely imported from Switzerland.&lt;/p&gt;
@@ -54,12 +54,12 @@
 &lt;p style="text-align: justify;"&gt;Especially at the smoking stage, Mavin uses smoked technology using imported oak wood, ensuring safety for consumers and European standards.&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2021-09-30T09:05:19.780Z</createdDate>
 	<createdDate_dt>2021-09-30T09:05:19.780Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T10:18:33.970Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T10:18:33.970Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T10:23:50.520Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:23:50.520Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-09-30T09:04:01.967Z</createdDate>
 	<createdDate_dt>2021-09-30T09:04:01.967Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T10:18:24.924Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T10:18:24.924Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T10:23:33.312Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:23:33.312Z</lastModifiedDate_dt>
 </page>
