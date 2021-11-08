@@ -8,21 +8,21 @@
 	<objectId>494119cc-dcfd-4bee-b353-898b57a69945</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>2</folder-name>
-	<internal-name>2</internal-name>
-	<navLabel>2</navLabel>
-	<name_s>2</name_s>
-	<kl_s>500g</kl_s>
-	<price_s>10000</price_s>
-	<sku_s>123</sku_s>
+	<internal-name>Smoked Pork </internal-name>
+	<navLabel>Smoked Pork </navLabel>
+	<name_s>Smoked Pork </name_s>
+	<kl_s>125 g &amp; 500 g/pack</kl_s>
+	<price_s>Contact us</price_s>
+	<sku_s>8936082672823</sku_s>
 	<isHot_b>true</isHot_b>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<sptype_o>	<item>	<key>sliced</key>
 	<value_smv>sliced</value_smv>
 	</item></sptype_o>
-	<image1_s>/static-assets/images/san-pham/Ca vien Huong Tom 1.png</image1_s>
-	<image2_s>/static-assets/images/san-pham/Ca vien 1.png</image2_s>
-	<image3_s>/static-assets/images/san-pham/Ca vien Huong Tom 3 (thay tam).png</image3_s>
+	<image1_s>/static-assets/images/san-pham/Cat lat (Thit heo XK 1 - 500g).png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Cat lat (Thit heo XK 3).png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Cat lat (Thit Heo XK 2).jpg</image3_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>b8a43efc-6578-012b-5eed-8db454ffe7b0</key>
 	<value>S</value>
 <component id="b8a43efc-6578-012b-5eed-8db454ffe7b0">
@@ -34,16 +34,21 @@
 	<objectId>b8a43efc-6578-012b-5eed-8db454ffe7b0</objectId>
 	<file-name>b8a43efc-6578-012b-5eed-8db454ffe7b0.xml</file-name>
 	<internal-name>S</internal-name>
-	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<image_s>/static-assets/images/header/Mavinfoodslide7.jpg</image_s>
 	<createdDate>2021-10-01T04:07:35.126Z</createdDate>
 	<createdDate_dt>2021-10-01T04:07:35.126Z</createdDate_dt>
-	<lastModifiedDate>2021-10-01T04:07:35.126Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-01T04:07:35.126Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T09:54:06.147Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:54:06.147Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;With oak smoked technology imported from Germany, and produced on modern lines with German technology standards, Mavin Smoked Pork still retains the aroma, fresh meat fibers of pure Mavin pork belly from the source without reducing the characteristic smoke of oak, is a nutritious dish and a smart choice for Housewives.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Product Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="text-align: justify;"&gt;-Smoked technology with imported German oak wood&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-Produced on modern lines with German technology standards&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-The main ingredient is pure Mavin pork belly from the source&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-Characteristic of fresh meat and smoked oak flavor- High nutritional content, ensuring food safety for consumers&lt;/div&gt;</content_html>
 	<createdDate>2021-10-01T04:06:09.632Z</createdDate>
 	<createdDate_dt>2021-10-01T04:06:09.632Z</createdDate_dt>
-	<lastModifiedDate>2021-10-04T08:55:51.293Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-04T08:55:51.293Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T09:51:21.974Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:51:21.974Z</lastModifiedDate_dt>
 </page>
