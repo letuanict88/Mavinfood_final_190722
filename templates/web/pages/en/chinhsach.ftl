@@ -35,7 +35,7 @@
                 
           </div>
           <div class="back-link my-3 my-md-5">
-                    <a class="d-flex align-items-center justify-content-center" href="/en">
+                    <a class="d-flex align-items-center justify-content-center" href="/en/home">
                     <span class="icon-vm d-flex justify-content-center align-items-center bg-white rounded-circle base-color"><i class="fas fa-caret-right fa-lg fa-flip-horizontal"></i></span>
                     <span class="fw-bold text-muted ps-2 small">Back to Home Page</span>
                     </a>
