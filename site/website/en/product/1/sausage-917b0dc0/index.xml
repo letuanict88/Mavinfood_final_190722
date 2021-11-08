@@ -6,12 +6,12 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>ad88518d</objectGroupId>
 	<objectId>ad88518d-1007-4e02-a3de-f092368e1c9b</objectId>
-	<internal-name>Hotdog Sausage 917b0dc0</internal-name>
-	<navLabel>Hotdog Sausage</navLabel>
-	<name_s>Hotdog Sausage</name_s>
+	<internal-name>Berliner</internal-name>
+	<navLabel>Berliner</navLabel>
+	<name_s>Berliner</name_s>
 	<kl_s>500 g/pack</kl_s>
-	<price_s>38000</price_s>
-	<sku_s>8936082673912</sku_s>
+	<price_s>45000</price_s>
+	<sku_s>8936082670003</sku_s>
 	<sptype_o>	<item>	<key> sausage</key>
 	<value_smv> sausage</value_smv>
 	</item></sptype_o>
@@ -19,10 +19,10 @@
 	<folder-name>sausage-917b0dc0</folder-name>
 	<isHot_b>true</isHot_b>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<image1_s>/static-assets/images/san-pham/XX Hot Dog 1.png</image1_s>
-	<image2_s>/static-assets/images/san-pham/XX Hot Dog 3.png</image2_s>
-	<image3_s>/static-assets/images/san-pham/XX Hot Dog 2.png</image3_s>
+	<orderDefault_f>-1</orderDefault_f>
+	<image1_s>/static-assets/images/san-pham/XX Berliner 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Berliner 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Berliner 2.png</image3_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>c952823e-d8bd-7a8a-b322-77465738e4bc</key>
 	<value>slide</value>
 <component id="c952823e-d8bd-7a8a-b322-77465738e4bc">
@@ -41,14 +41,13 @@
 	<lastModifiedDate_dt>2021-11-08T09:28:35.072Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<content_html>&lt;p style="text-align: justify;"&gt;In the mass segment, Hotdog sausage is currently Mavin's best-selling sausage line. Hotdog is also the name of a famous sausage in the world.&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;With the main ingredient of pork, especially with the addition of chicken, Mavin's Hotdog ensures sufficient nutritional content without the feeling of being fat or greasy like people think about eating hot dogs.&lt;/p&gt;
+	<content_html>&lt;p style="text-align: justify;"&gt;With pork ingredients over 60%, along with lard, salt, pepper, coriander, natural smoke and typical spices, Berliner is one of Mavin's premium Pork sausage lines. Berliner also has more family-friendly prices in Mavin's premium product division.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;&lt;strong&gt;Product Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;div style="text-align: justify;"&gt;-Main ingredients are pork and chicken with typical spices.;&lt;/div&gt;
-&lt;div style="text-align: justify;"&gt;-High nutritional content, not feeling fat and safe. food for NTD;&lt;/div&gt;
-&lt;div style="text-align: justify;"&gt;-Affordable prices for every family.&lt;/div&gt;</content_html>
+&lt;div style="text-align: justify;"&gt;-Main ingredients are pork (over 60%) with lard, salt, pepper, coriander seeds, natural smoke and typical spices;&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-High nutritional content, ensuring food safety;&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-The price is suitable for family consumption.&lt;/div&gt;</content_html>
 	<createdDate>2021-11-08T09:24:41.857Z</createdDate>
 	<createdDate_dt>2021-11-08T09:24:41.857Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T09:24:41.857Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T09:24:41.857Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T09:29:21.619Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:29:21.619Z</lastModifiedDate_dt>
 </page>
