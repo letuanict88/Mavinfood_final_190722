@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>497f</objectGroupId>
+	<objectId>497fe640-09a0-58cc-6707-fe8c2eb836ce</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>promotion</folder-name>
+	<internal-name>Promotion</internal-name>
+	<navLabel>Promotion</navLabel>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>60ed89e6-3771-8121-18c0-8589f1a51cd9</key>
+	<value>Slide</value>
+<component id="60ed89e6-3771-8121-18c0-8589f1a51cd9">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>60ed</objectGroupId>
+	<objectId>60ed89e6-3771-8121-18c0-8589f1a51cd9</objectId>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<file-name>60ed89e6-3771-8121-18c0-8589f1a51cd9.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2021-11-08T02:39:03.724Z</createdDate>
+	<createdDate_dt>2021-11-08T02:39:03.724Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T02:39:03.724Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:39:03.724Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>3fdf6f36-e6a2-3db3-fc02-d7d2c3c35ed5</key>
+	<value>TTKM</value>
+<component id="3fdf6f36-e6a2-3db3-fc02-d7d2c3c35ed5">
+	<content-type>/component/encomttkm</content-type>
+	<display-template>/templates/web/components/en/ttkm.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3fdf</objectGroupId>
+	<objectId>3fdf6f36-e6a2-3db3-fc02-d7d2c3c35ed5</objectId>
+	<internal-name>TTKM</internal-name>
+	<file-name>3fdf6f36-e6a2-3db3-fc02-d7d2c3c35ed5.xml</file-name>
+	<createdDate>2021-11-08T02:42:45.022Z</createdDate>
+	<createdDate_dt>2021-11-08T02:42:45.022Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T02:42:45.022Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:42:45.022Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-11-08T02:38:33.386Z</createdDate>
+	<createdDate_dt>2021-11-08T02:38:33.386Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T02:38:33.386Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:38:33.386Z</lastModifiedDate_dt>
+</page>
