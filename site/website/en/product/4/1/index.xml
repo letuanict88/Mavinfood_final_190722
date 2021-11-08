@@ -20,9 +20,9 @@
 	<sptype_o>	<item>	<key>balls</key>
 	<value_smv>balls</value_smv>
 	</item></sptype_o>
-	<image1_s>/static-assets/images/san-pham/Ca vien 1.png</image1_s>
-	<image2_s>/static-assets/images/san-pham/Ca vien Huong Tom 2.jpg</image2_s>
-	<image3_s>/static-assets/images/san-pham/Ca vien huong Tom.png</image3_s>
+	<image1_s>/static-assets/images/san-pham/Ca vien Huong Tom 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Ca vien Huong Tom 3 (thay tam).png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Ca vien Huong Tom 2.jpg</image3_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>f258a196-2307-399f-e564-fbe1b5f2405f</key>
 	<value>S</value>
 <component id="f258a196-2307-399f-e564-fbe1b5f2405f">
@@ -37,8 +37,8 @@
 	<image_s>/static-assets/images/header/Mavinfoodslide6).jpg</image_s>
 	<createdDate>2021-10-04T09:39:28.937Z</createdDate>
 	<createdDate_dt>2021-10-04T09:39:28.937Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T09:08:35.558Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T09:08:35.558Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T09:10:37.618Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:10:37.618Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
 	<content_html>&lt;p style="text-align: justify;"&gt;Flavored shrimp fish balls also have fish as the main ingredient, but they have a characteristic aroma of shrimp, and especially have a red-orange color like the real color of the cooked shrimp's intestines. Therefore, shrimp flavor fish balls will be very eye-catching with young children, and suitable as a comprehensive nutritional supplement menu for families in daily meals.&lt;/p&gt;
@@ -48,6 +48,6 @@
 &lt;div style="text-align: justify;"&gt;&amp;bull;Use up the product within 24 hours of opening the package.&lt;/div&gt;</content_html>
 	<createdDate>2021-10-04T08:56:43.577Z</createdDate>
 	<createdDate_dt>2021-10-04T08:56:43.577Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T08:49:30.239Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T08:49:30.239Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T09:09:11.995Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:09:11.995Z</lastModifiedDate_dt>
 </page>
