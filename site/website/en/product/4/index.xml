@@ -8,8 +8,8 @@
 	<objectId>02f7cb99-b048-eb20-88ec-31123f41aafe</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>4</folder-name>
-	<internal-name>Do vien</internal-name>
-	<navLabel>Do vien</navLabel>
+	<internal-name>Fish Ball</internal-name>
+	<navLabel>Fish Ball</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>36e7d476-9ee3-2dc0-0bdf-dfccfbc84fbe</key>
@@ -31,7 +31,7 @@
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>3117cc37-6380-0fe3-6689-288620a3be87</key>
-	<value>Do vien</value>
+	<value>Fish Ball</value>
 <component id="3117cc37-6380-0fe3-6689-288620a3be87">
 	<content-type>/component/encomgroupsp</content-type>
 	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
@@ -40,23 +40,25 @@
 	<objectGroupId>3117</objectGroupId>
 	<objectId>3117cc37-6380-0fe3-6689-288620a3be87</objectId>
 	<file-name>3117cc37-6380-0fe3-6689-288620a3be87.xml</file-name>
-	<internal-name>Do vien</internal-name>
-	<title_s>Do vien</title_s>
+	<internal-name>Fish Ball</internal-name>
+	<title_s>Fish Ball</title_s>
 	<image_s>/static-assets/images/san-pham/Ca vien 1.png</image_s>
 	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/d1aa808a-ec46-2f5b-bfc0-886129c3ba6f.xml</key>
 	<value>Do vien</value>
 	<include>/site/items/d1aa808a-ec46-2f5b-bfc0-886129c3ba6f.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></groupproduct_o>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;Fish is a low-fat food rich in omega-3 acids, protein, vitamins and minerals. Fish oil is very good for the health and development of children. Fish is also an ideal diet food for fat people. For the elderly, eating more fish helps reduce the risk of stroke, heart disease, joint pain, prevent Alzheimer's disease and age-related dementia.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Fish also helps reduce inflammation, lower cholesterol levels, reduce the risk of cancer, reduce the risk of autoimmune diseases, prevent and treat depression. Eating fish also helps increase sperm quality, supplement vitamin D and improve skin health and beauty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Because of the above benefits from fish for all ages, Mavin has developed 4 new product lines of Fish Balls with the main ingredients from fish.&lt;/p&gt;</content_html>
 	<createdDate>2021-09-30T09:19:17.212Z</createdDate>
 	<createdDate_dt>2021-09-30T09:19:17.212Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:19:17.212Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:19:17.212Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T02:43:00.994Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:43:00.994Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-09-30T09:17:43.279Z</createdDate>
 	<createdDate_dt>2021-09-30T09:17:43.279Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:17:43.279Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:17:43.279Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T02:42:43.574Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:42:43.574Z</lastModifiedDate_dt>
 </page>
