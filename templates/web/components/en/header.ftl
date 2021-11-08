@@ -72,8 +72,8 @@
           <ul class="list-unstyled d-flex flex-column col-custom">
             <a href="/en/customer-service"><p class="fw-bold text-white mb-2">Customer Service</p></a>
             <li class="mb-2"><a class="text-white" href="/en/distribution-network">Distribution network</a></li>
-            <li class="mb-2"><a class="text-white" href="/en/distribution-network/promotion">Promotion</a></li>
-            <li class="mb-2"><a class="text-white" href="/en/distribution-network/qa">Q & A</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/customer-service/promotion">Promotion</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/customer-service/qa">Q & A</a></li>
           </ul>
           
           <ul class="list-unstyled d-flex flex-column col-custom">
@@ -147,8 +147,8 @@
               </button>   
               <ul class="dropdown-menu" aria-labelledby="cskh">
                 <li><a class="dropdown-item" href="/en/distribution-network">Distribution Network</a></li>
-                <li><a class="dropdown-item" href="/en/distribution-network/promotion">Promotion</a></li>
-                <li><a class="dropdown-item" href="/en/distribution-network/qa">Q&A</a></li>
+                <li><a class="dropdown-item" href="/en/customer-service/promotion">Promotion</a></li>
+                <li><a class="dropdown-item" href="/en/customer-service/qa">Q&A</a></li>
               </ul>
             </li>
             <li class="nav-item menu-item">
