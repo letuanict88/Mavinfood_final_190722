@@ -8,21 +8,21 @@
 	<objectId>63cc2687-012c-16a2-1d87-115c3a327ad2</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>1</folder-name>
-	<internal-name>1</internal-name>
-	<navLabel>1</navLabel>
-	<name_s>1</name_s>
+	<internal-name>Square ham</internal-name>
+	<navLabel>Square ham</navLabel>
+	<name_s>Square ham</name_s>
 	<kl_s>500g</kl_s>
-	<price_s>10000</price_s>
-	<sku_s>123</sku_s>
+	<price_s>contact us</price_s>
+	<sku_s>8936082670812</sku_s>
 	<isHot_b>true</isHot_b>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<sptype_o>	<item>	<key>sliced</key>
 	<value_smv>sliced</value_smv>
 	</item></sptype_o>
-	<image1_s>/static-assets/images/san-pham/Ca vien Huong Tom 1.png</image1_s>
-	<image2_s>/static-assets/images/san-pham/Ca vien 1.png</image2_s>
-	<image3_s>/static-assets/images/san-pham/Ca vien Huong Tom 3 (thay tam).png</image3_s>
+	<image1_s>/static-assets/images/san-pham/Cat lat (Giam bong vuong 1).png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Cat lat (Giam bong vuong 3).png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Cat lat (Giam bong vuong 2).jpg</image3_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>b8a43efc-6578-012b-5eed-8db454ffe7b0</key>
 	<value>S</value>
 <component id="b8a43efc-6578-012b-5eed-8db454ffe7b0">
@@ -41,9 +41,14 @@
 	<lastModifiedDate_dt>2021-10-01T04:07:35.126Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;Mavin's Ham products are made from clean pork, selected from high-quality breeds in the world and raised safely on Mavin's farms. Here, pigs are strictly prevented from disease and are fed with high quality feed, produced on production lines completely imported from Switzerland. Mavin controls safe slaughter, storage and processing to ISO 22000 and HACCP standards, ensuring clean and safe products are delivered to users.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin's experts are those who have many years of experience in the food industry in Germany, bringing German culinary secrets to Vietnam, with the desire to give customers the opportunity to enjoy quintessential products of German cuisine - a world famous country for processed foods.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Product Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="text-align: justify;"&gt;-The main ingredient is quality pork thighs from clean pigs raised at Mavin farms according to international model standards&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-Do not use borax, preservatives, ensure health and food safety for consumers&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-Characteristic aroma of meat, rich of spices, suitable for Vietnamese family taste.&lt;/div&gt;</content_html>
 	<createdDate>2021-10-01T04:06:09.632Z</createdDate>
 	<createdDate_dt>2021-10-01T04:06:09.632Z</createdDate_dt>
-	<lastModifiedDate>2021-10-01T04:06:09.632Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-01T04:06:09.632Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T09:48:11.886Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:48:11.886Z</lastModifiedDate_dt>
 </page>
