@@ -18,7 +18,7 @@
 	<navLabel>Chicken Sausage</navLabel>
 	<name_s>Chicken Sausage</name_s>
 	<kl_s>500 g/pack</kl_s>
-	<price_s>34,000</price_s>
+	<price_s>34000</price_s>
 	<sku_s>8936082672441</sku_s>
 	<image1_s>/static-assets/images/san-pham/XX Ga 1.png</image1_s>
 	<image2_s>/static-assets/images/san-pham/XX Ga 3.png</image2_s>
@@ -49,6 +49,6 @@
 &lt;div style="text-align: justify;"&gt;-Taste: natural chicken flavor, bar and does not create a feeling of nausea for people to eat.&lt;/div&gt;</content_html>
 	<createdDate>2021-11-08T08:02:00.813Z</createdDate>
 	<createdDate_dt>2021-11-08T08:02:00.813Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T08:07:39.212Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T08:07:39.212Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T08:08:21.864Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T08:08:21.864Z</lastModifiedDate_dt>
 </page>
