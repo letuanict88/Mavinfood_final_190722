@@ -15,8 +15,8 @@
 	<isHot_b>true</isHot_b>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<sptype_o>	<item>	<key>other</key>
-	<value_smv>other</value_smv>
+	<sptype_o>	<item>	<key> sausage</key>
+	<value_smv> sausage</value_smv>
 	</item></sptype_o>
 	<image1_s>/static-assets/images/san-pham/1.png</image1_s>
 	<image2_s>/static-assets/images/san-pham/2.jpg</image2_s>
@@ -44,6 +44,6 @@
 	<content_html>&lt;p&gt;test&lt;/p&gt;</content_html>
 	<createdDate>2021-11-08T10:32:19.465Z</createdDate>
 	<createdDate_dt>2021-11-08T10:32:19.465Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T10:39:43.886Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T10:39:43.886Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T10:43:15.224Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:43:15.224Z</lastModifiedDate_dt>
 </page>
