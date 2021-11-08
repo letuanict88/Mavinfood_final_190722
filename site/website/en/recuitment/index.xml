@@ -8,8 +8,8 @@
 	<objectId>8a533246-25e0-25d6-c772-5a2479f620e7</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>recuitment</folder-name>
-	<internal-name>Recuitment</internal-name>
-	<navLabel>Recuitment</navLabel>
+	<internal-name>Recruitment</internal-name>
+	<navLabel>Recruitment</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>c2c785b0-b67e-defe-dcfd-f5032bf37c4a</key>
@@ -49,6 +49,6 @@
 	</item></section_o>
 	<createdDate>2021-10-06T07:49:28.211Z</createdDate>
 	<createdDate_dt>2021-10-06T07:49:28.211Z</createdDate_dt>
-	<lastModifiedDate>2021-10-06T07:49:28.211Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-06T07:49:28.211Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T01:53:59.637Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T01:53:59.637Z</lastModifiedDate_dt>
 </page>
