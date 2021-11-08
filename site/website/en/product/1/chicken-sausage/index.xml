@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagespchitiet</content-type>
+	<display-template>/templates/web/pages/en/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7cea</objectGroupId>
+	<objectId>7ceac051-ff5a-d653-f01e-ee42fd0cb2a5</objectId>
+	<sptype_o>	<item>	<key> sausage</key>
+	<value_smv> sausage</value_smv>
+	</item></sptype_o>
+	<isHot_b>false</isHot_b>
+	<file-name>index.xml</file-name>
+	<folder-name>chicken-sausage</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Chicken Sausage</internal-name>
+	<navLabel>Chicken Sausage</navLabel>
+	<name_s>Chicken Sausage</name_s>
+	<kl_s>500 g/pack</kl_s>
+	<price_s>34,000</price_s>
+	<sku_s>8936082672441</sku_s>
+	<image1_s>/static-assets/images/san-pham/XX Ga 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Ga 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/xuc-xich-ga2.jpg</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>8148330c-7914-2594-6a29-a5b00d1bf924</key>
+	<value>Slide</value>
+<component id="8148330c-7914-2594-6a29-a5b00d1bf924">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8148</objectGroupId>
+	<objectId>8148330c-7914-2594-6a29-a5b00d1bf924</objectId>
+	<file-name>8148330c-7914-2594-6a29-a5b00d1bf924.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/Mavinfoodslide4.jpg</image_s>
+	<createdDate>2021-11-08T08:05:51.305Z</createdDate>
+	<createdDate_dt>2021-11-08T08:05:51.305Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T08:05:51.305Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T08:05:51.305Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;With the main ingredient of 100% chicken, Mavin Chicken Sausage has many differences and novelties compared to the previous traditional sausage lines of Mavin Food. Sausage color is slightly yellow naturally of chicken fat, especially when eaten, the chicken flavor is naturally fragrant but does not create a feeling of nausea for people to eat. The proportion of chicken breast in the ingredients is quite high, so consumers are not afraid of gaining weight like some traditional pork&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;product is an effort of Mavin Foods to meet the demand for a nutritious sausage product for everyone, especially women and children that can be eaten at any time without worrying about excess calories or weight gain.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Product Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="text-align: justify;"&gt;-Ingredients: 100% from chicken, chicken breast proportion is quite high, so it does not cause fat.&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-Color: slightly yellow natural like the color of chicken fat.&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;-Taste: natural chicken flavor, bar and does not create a feeling of nausea for people to eat.&lt;/div&gt;</content_html>
+	<createdDate>2021-11-08T08:02:00.813Z</createdDate>
+	<createdDate_dt>2021-11-08T08:02:00.813Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T08:02:00.813Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T08:02:00.813Z</lastModifiedDate_dt>
+</page>
