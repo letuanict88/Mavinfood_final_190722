@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagespchitiet</content-type>
+	<display-template>/templates/web/pages/en/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7821</objectGroupId>
+	<objectId>7821ea40-4f27-3c42-306c-6aa017fc7e30</objectId>
+	<sptype_o>	<item>	<key>rolls</key>
+	<value_smv>rolls</value_smv>
+	</item></sptype_o>
+	<file-name>index.xml</file-name>
+	<folder-name>spring-rolls</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<internal-name>Boiled Pork Spring Rolls </internal-name>
+	<navLabel>Boiled Pork Spring Rolls </navLabel>
+	<name_s>Boiled Pork Spring Rolls </name_s>
+	<kl_s>1 kg</kl_s>
+	<price_s>95000</price_s>
+	<sku_s>8936082676203</sku_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>0a89e670-9055-9d93-8875-6c800b2e6628</key>
+	<value>Slide</value>
+<component id="0a89e670-9055-9d93-8875-6c800b2e6628">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0a89</objectGroupId>
+	<objectId>0a89e670-9055-9d93-8875-6c800b2e6628</objectId>
+	<internal-name>Slide</internal-name>
+	<file-name>0a89e670-9055-9d93-8875-6c800b2e6628.xml</file-name>
+	<image_s>/static-assets/images/header/Mavinfoodslide7.jpg</image_s>
+	<createdDate>2021-11-08T10:01:36.799Z</createdDate>
+	<createdDate_dt>2021-11-08T10:01:36.799Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T10:01:36.799Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:01:36.799Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<image1_s>/static-assets/images/san-pham/Gio Lua Mavin 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Gio Ga Mavin 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Gio Lua Mavin 2.png</image3_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Boiled Pork Spring Rolls (Gio Lua) has become a traditional dish that carries the beauty of traditional culinary culture of the Vietnamese people and is indispensable in every spring. In the past, our forefathers also pounded Gio by themselves with a stone mortar called handmade Gio.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nowadays, Food Companies produce Spring rolls under many different technologies. With cool preservation technology, Mavin has launched a new product line - Gio Lua. Instead of using only 1-2 days like the traditional handmade hot spring rolls sold in the market, Mavin Spring Rolls can be used for 40 days if stored at 0-4 degrees Celsius, 90 days if frozen under - 18 degrees Celsius while still ensuring the inherent traditional flavor of Gio.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Packing: 1kg/plant or 500g/plant depending on customer's request&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Instructions for use: Products are eaten immediately, fried or processed into favorite dishes.&lt;/p&gt;</content_html>
+	<createdDate>2021-11-08T09:58:01.204Z</createdDate>
+	<createdDate_dt>2021-11-08T09:58:01.204Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T09:58:01.204Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:58:01.204Z</lastModifiedDate_dt>
+</page>
