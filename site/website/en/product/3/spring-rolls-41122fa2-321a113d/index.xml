@@ -6,8 +6,8 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>0feab5e9</objectGroupId>
 	<objectId>0feab5e9-16e1-464f-bc33-538348dcdce5</objectId>
-	<sptype_o>	<item>	<key>rolls</key>
-	<value_smv>rolls</value_smv>
+	<sptype_o>	<item>	<key> sausage</key>
+	<value_smv> sausage</value_smv>
 	</item></sptype_o>
 	<file-name>index.xml</file-name>
 	<folder-name>spring-rolls-41122fa2-321a113d</folder-name>
@@ -47,6 +47,6 @@
 &lt;p style="text-align: justify;"&gt;Instructions for use: Products are eaten immediately, fried or processed into favorite dishes.&lt;/p&gt;</content_html>
 	<createdDate>2021-11-08T09:58:01.204Z</createdDate>
 	<createdDate_dt>2021-11-08T09:58:01.204Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T10:04:58.348Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T10:04:58.348Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T10:20:49.390Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:20:49.390Z</lastModifiedDate_dt>
 </page>
