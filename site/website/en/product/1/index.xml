@@ -31,7 +31,7 @@
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>50b1e8a6-7af8-980c-7901-e3e68efe76f0</key>
-	<value>Xuc Xich</value>
+	<value>Sausage</value>
 <component id="50b1e8a6-7af8-980c-7901-e3e68efe76f0">
 	<content-type>/component/encomgroupsp</content-type>
 	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
@@ -40,23 +40,26 @@
 	<objectGroupId>50b1</objectGroupId>
 	<objectId>50b1e8a6-7af8-980c-7901-e3e68efe76f0</objectId>
 	<file-name>50b1e8a6-7af8-980c-7901-e3e68efe76f0.xml</file-name>
-	<internal-name>Xuc Xich</internal-name>
-	<title_s>Xuc xich</title_s>
+	<internal-name>Sausage</internal-name>
+	<title_s>Sausage</title_s>
 	<image_s>/static-assets/images/san-pham/xuc-xich1.png</image_s>
 	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/1f995aee-4e5f-b8ed-0b90-891143f98166.xml</key>
 	<value>xuc xich</value>
 	<include>/site/items/1f995aee-4e5f-b8ed-0b90-891143f98166.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></groupproduct_o>
-	<content_html>&lt;p&gt;content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;Sausage is a strong product of Mavin in the Vietnamese market. Mavin sausage has its own unique flavor, made according to the secret of leading culinary experts from Germany, with European culinary standards.Mavin sausage is made from clean pork, selected from high-quality breeding sources in the world and raised safely at Mavin Farm's farms. Here, pigs are strictly prevented from disease and are fed with high quality feed, produced on production lines completely imported from Switzerland.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin controls safe slaughtering, storage and processing to ISO 22000 and HACCP standards, ensuring clean and safe sausage products are delivered to users.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;At the processing stage, with culinary secrets from Germany, clean meat is mixed with ingredients imported from Europe, processed on a line completely imported from Germany to keep the original flavor.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Especially at the smoking stage, Mavin uses smoked technology using imported oak wood, ensuring safety for consumers and European standards.&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2021-09-30T09:05:19.780Z</createdDate>
 	<createdDate_dt>2021-09-30T09:05:19.780Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:05:19.780Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:05:19.780Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T01:54:36.195Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T01:54:36.195Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-09-30T09:04:01.967Z</createdDate>
 	<createdDate_dt>2021-09-30T09:04:01.967Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T09:07:14.687Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T09:07:14.687Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T01:54:28.707Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T01:54:28.707Z</lastModifiedDate_dt>
 </page>
