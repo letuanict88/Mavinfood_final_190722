@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagespchitiet</content-type>
+	<display-template>/templates/web/pages/en/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d77f</objectGroupId>
+	<objectId>d77ff2ae-4a07-1272-ed99-d6de2c06782d</objectId>
+	<internal-name>1</internal-name>
+	<navLabel>1</navLabel>
+	<name_s>1</name_s>
+	<kl_s>1</kl_s>
+	<price_s>1</price_s>
+	<sku_s>1</sku_s>
+	<isHot_b>true</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sptype_o>	<item>	<key> sausage</key>
+	<value_smv> sausage</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/2.jpg</image2_s>
+	<image3_s>/static-assets/images/san-pham/2.jpg</image3_s>
+	<file-name>index.xml</file-name>
+	<folder-name>1</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>88597fd5-ed97-9027-0273-534d63fb8eaf</key>
+	<value>S</value>
+<component id="88597fd5-ed97-9027-0273-534d63fb8eaf">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8859</objectGroupId>
+	<objectId>88597fd5-ed97-9027-0273-534d63fb8eaf</objectId>
+	<file-name>88597fd5-ed97-9027-0273-534d63fb8eaf.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<internal-name>S</internal-name>
+	<createdDate>2021-11-08T10:33:45.673Z</createdDate>
+	<createdDate_dt>2021-11-08T10:33:45.673Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T10:33:45.673Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:33:45.673Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;test&lt;/p&gt;</content_html>
+	<createdDate>2021-11-08T10:32:19.465Z</createdDate>
+	<createdDate_dt>2021-11-08T10:32:19.465Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T10:32:19.465Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:32:19.465Z</lastModifiedDate_dt>
+</page>
