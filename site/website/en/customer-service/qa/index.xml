@@ -41,17 +41,32 @@
 	<objectId>262fe8a4-58c2-41a5-a43b-befc5c7ee75b</objectId>
 	<file-name>262fe8a4-58c2-41a5-a43b-befc5c7ee75b.xml</file-name>
 	<internal-name>QA</internal-name>
-	<qA_o item-list="true">	<item>	<title_s>1</title_s>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<qA_o item-list="true">	<item>	<title_s>Production technology</title_s>
+	<content_html>&lt;p&gt;&amp;nbsp;&lt;em&gt;What production technology does Mavin Foods use?&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Answer: &lt;/strong&gt;The entire production line at Mavin's factory is imported from the Federal Republic of Germany, with famous machine brands such as Mado, Bizerbar, Fressmann, Handtman... With modern technology, the Products of Mavin Food Joint Venture Co., Ltd always ensure high, uniform and stable quality.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Mavin Foods products</title_s>
+	<content_html>&lt;div style="text-align: justify;"&gt;&lt;em&gt;1.Product packaging: &lt;/em&gt;&lt;/div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Answer: &lt;/strong&gt;For sausages and pellets, the packing is 500g/bag. With spring rolls, the packing specification is 1kg/tree.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;2. Storage and shelf life:&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Answer: &lt;/strong&gt;If refrigerated HSD is 40 days, if frozen is 3 months. With pellets, store in the freezer and use for 1 year! With spring rolls should be kept in the refrigerator to eat better and HSD in 40 days! All information has detailed instructions on the product packaging.&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>General information about Mavin Foods</title_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;em&gt;I want to know more about Mavin Foods? &lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Answer:&lt;/strong&gt; Mavin Food Joint Venture Company Limited (Mavin Foods) is a member of Mavin Group - the leading Agriculture Group in Vietnam, with foreign investment capital, operating under the model of full supply chain "&lt;strong&gt;From Farm to Table&lt;/strong&gt;". Mavin Foods factory has been in operation for 6 years, has a production capacity of over 10,000 tons of products/year, is located in Dong Van II Industrial Park, Duy Minh Ward, Duy Tien Town, Ha Nam Province with with an area of ​​10,000 m2, invested synchronously and modernly with a production system completely following the modern technology of the Federal Republic of Germany.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Advanced production technology lines imported from Germany, a closed process that meets food safety and hygiene standards according to ISO 22000 and HACCP certified by TUV NORD (Germany), Mavin Foods is confident and guaranteed to create quality products. High quality and absolutely safe food hygiene. Along with "European Recipes, Deep Asian Flavors", Mavin has been loved and trusted by consumers, especially in the North and Central regions.&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Hygiene and food safety</title_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;em&gt;Are Mavin Foods products safe? &lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Answer:&lt;/strong&gt; Mavin Foods with "European Secrets, Deep Asian Flavors" operates under a closed production model "From Farm to Table" clean from the source, with high-class imported production technology lines. from Germany, produced according to a closed process to achieve food safety and hygiene according to ISO 22000 and HACCP standards certified by TUV NORD (Germany), Mavin Foods is always proud and committed to product quality that ensures food safety and benefits for consumers.&lt;/p&gt;</content_html>
 	</item></qA_o>
 	<createdDate>2021-11-08T02:22:18.759Z</createdDate>
 	<createdDate_dt>2021-11-08T02:22:18.759Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T02:22:18.759Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T02:22:18.759Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T03:07:29.705Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T03:07:29.705Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-11-08T02:21:39.192Z</createdDate>
 	<createdDate_dt>2021-11-08T02:21:39.192Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T02:21:39.192Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T02:21:39.192Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T03:07:21.521Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T03:07:21.521Z</lastModifiedDate_dt>
 </page>
