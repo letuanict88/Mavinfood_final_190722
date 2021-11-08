@@ -45,7 +45,7 @@
 	<bank_s/>
 	<tax_s/>
 	<place_o item-list="true">	<item>	<title_s>Factory</title_s>
-	<map_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238676.41826440088!2d105.74440443923444!3d20.818819666172075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135adc96b676a81%3A0xd035f99cd62c64b4!2zQ8O0bmcgdHkgQ-G7lSBwaOG6p24gVOG6rXAgxJFvw6BuIE1hdmlu!5e0!3m2!1svi!2s!4v1628148859389!5m2!1svi!2s" width="514" height="338" style="border:0;" allowfullscreen="" loading="lazy"&gt;&lt;/iframe&gt;</map_s>
+	<map_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238916.4530155482!2d105.78909161640624!3d20.666748100000017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135c8fb8468cd55%3A0x6063492f0d41f425!2zQ8O0bmcgdHkgVE5ISCBMacOqbiBkb2FuaCBUaOG7sWMgcGjhuqltIE1hdmlu!5e0!3m2!1sen!2s!4v1636366673593!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"&gt;&lt;/iframe&gt;</map_s>
 	<image_s>/static-assets/images/lien-he/tru-so-chinh.jpg</image_s>
 	<content_html>&lt;p&gt;E6 - Dong Van II Industrial Park Duy Tien - Ha Nam&lt;/p&gt;
 &lt;p&gt;Tel: 0226 3 582 889&lt;/p&gt;
@@ -63,12 +63,12 @@
 	</item></place_o>
 	<createdDate>2021-11-06T05:11:50.365Z</createdDate>
 	<createdDate_dt>2021-11-06T05:11:50.365Z</createdDate_dt>
-	<lastModifiedDate>2021-11-06T05:21:58.789Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-06T05:21:58.789Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T10:16:40.480Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:16:40.480Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-11-06T04:29:06.210Z</createdDate>
 	<createdDate_dt>2021-11-06T04:29:06.210Z</createdDate_dt>
-	<lastModifiedDate>2021-11-06T05:21:52.408Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-06T05:21:52.408Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T10:16:32.748Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T10:16:32.748Z</lastModifiedDate_dt>
 </page>
