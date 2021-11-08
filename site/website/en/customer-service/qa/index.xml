@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>09de</objectGroupId>
+	<objectId>09deb369-cefe-e25d-04a2-0c563652925d</objectId>
+	<internal-name>QA</internal-name>
+	<navLabel>QA</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>qa</folder-name>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>d9efa3ec-54c3-c70b-1302-9210bd5ba75f</key>
+	<value>S</value>
+<component id="d9efa3ec-54c3-c70b-1302-9210bd5ba75f">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d9ef</objectGroupId>
+	<objectId>d9efa3ec-54c3-c70b-1302-9210bd5ba75f</objectId>
+	<internal-name>S</internal-name>
+	<file-name>d9efa3ec-54c3-c70b-1302-9210bd5ba75f.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-11-08T02:21:51.502Z</createdDate>
+	<createdDate_dt>2021-11-08T02:21:51.502Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T02:21:51.502Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:21:51.502Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>262fe8a4-58c2-41a5-a43b-befc5c7ee75b</key>
+	<value>QA</value>
+<component id="262fe8a4-58c2-41a5-a43b-befc5c7ee75b">
+	<content-type>/component/encomqa</content-type>
+	<display-template>/templates/web/components/en/qa.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>262f</objectGroupId>
+	<objectId>262fe8a4-58c2-41a5-a43b-befc5c7ee75b</objectId>
+	<file-name>262fe8a4-58c2-41a5-a43b-befc5c7ee75b.xml</file-name>
+	<internal-name>QA</internal-name>
+	<qA_o item-list="true">	<item>	<title_s>1</title_s>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	</item></qA_o>
+	<createdDate>2021-11-08T02:22:18.759Z</createdDate>
+	<createdDate_dt>2021-11-08T02:22:18.759Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T02:22:18.759Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:22:18.759Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-11-08T02:21:39.192Z</createdDate>
+	<createdDate_dt>2021-11-08T02:21:39.192Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T02:21:39.192Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:21:39.192Z</lastModifiedDate_dt>
+</page>
