@@ -104,9 +104,9 @@
         </nav>
         <div class="category-circle d-flex flex-wrap flex-md-nowrap justify-content-center align-items-center py-3 py-md-5">
           <a class="item d-flex justify-content-center align-items-center" href="/en/product/1">Sausage</a>
-          <a class="item d-flex justify-content-center align-items-center" href="/en/product/2">Fish<br>Ball</a>
+          <a class="item d-flex justify-content-center align-items-center" href="/en/product/4">Fish<br>Ball</a>
           <a class="item d-flex justify-content-center align-items-center" href="/en/product/3">Spring<br>Rolls</a>
-          <a class="item d-flex justify-content-center align-items-center" href="/en/product/4">Cold<br>Cut</a>
+          <a class="item d-flex justify-content-center align-items-center" href="/en/product/2">Cold<br>Cut</a>
           <a class="item d-flex justify-content-center align-items-center" href="/en/product/5">Other<br>Products</a>
         </div>
       </div>
