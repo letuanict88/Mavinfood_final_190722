@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagetailieukm</content-type>
+	<display-template>/templates/web/pages/en/tailieukm.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c1b1</objectGroupId>
+	<objectId>c1b14229-51d9-d2ea-400f-f781982129ea</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>1</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>1</internal-name>
+	<navLabel>1</navLabel>
+	<name_s>1</name_s>
+	<createdDate>2021-11-08T02:44:40.904Z</createdDate>
+	<createdDate_dt>2021-11-08T02:44:40.904Z</createdDate_dt>
+	<lastModifiedDate>2021-11-08T02:44:40.904Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T02:44:40.904Z</lastModifiedDate_dt>
+</page>
