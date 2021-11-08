@@ -50,7 +50,7 @@
           <h3 class="fw-bold text-uppercase base-color h4">History</h3>
           <div class="row mb-5">
             <div class="col-md-6">
-              <img src="/static-assets/dist/temp/company.jpg" alt="" class="img-thumbnail shadow-sm mb-3 mb-md-0">
+              <img src="/static-assets/images/factory.jpg" alt="" class="img-thumbnail shadow-sm mb-3 mb-md-0">
             </div>
             <div class="col-md-6" style="text-align: justify;display: flex;flex-direction: column;justify-content: space-between; font-size: 15px;">
               <p>Mavin foods joint venture Company is one of few Vietnamese corporations applying “From Farm to Table” production model, with enclosed value chain, from breeding, veterinary medicine, raising and food processing; ensuring the hygiene and safety to the hand of end customers.
