@@ -8,9 +8,9 @@
 	<objectId>3241986d-4abe-8883-d1da-ae67453989c2</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>1</folder-name>
-	<internal-name>1</internal-name>
-	<navLabel>1</navLabel>
-	<title_s>1</title_s>
+	<internal-name>Core values</internal-name>
+	<navLabel>Core values</navLabel>
+	<title_s>Core values</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<image_s>/static-assets/images/tuyen-dung/5O6A7027.JPG</image_s>
@@ -32,11 +32,27 @@
 	<lastModifiedDate_dt>2021-10-06T07:52:40.092Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Unity&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;We acknowledge the important of to be united to the development of Mavin and considered it to be our asset and driving force for any development opportunity.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Innovation&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;We try to elevate the difference in level compare to our competitors by continuously encourage open idea, critical thinking and innovative of staff in all level and departments.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Responsibility&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Every individual in Mavin always awares of their own duty and responsibility to the work of the whole company, and always to be as much cooperative and complete as possible in day-to-day work.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quality&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;We always aim for the best in every work, every operation, every activity.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Customer satisfaction&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin&amp;rsquo;s customers are consumers, partners, shareholder and also are our staff. Mavin always listen to understand, to share the thoughts and want to bring customers the satisfaction even over their expectation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Transparency&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The transparency is displayed from the awareness to the behavior of each and every Mavin's staff. We follow the work ethics and standard, the laws and regulations, international standard and always be transparent with information regard to business operation.&lt;/p&gt;</content_html>
 	<createdDate>2021-10-06T07:52:19.547Z</createdDate>
 	<createdDate_dt>2021-10-06T07:52:19.547Z</createdDate_dt>
-	<lastModifiedDate>2021-10-06T07:52:19.547Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-06T07:52:19.547Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T01:46:53.601Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T01:46:53.601Z</lastModifiedDate_dt>
 	<date_dt>2021-10-06T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
 </page>
