@@ -213,7 +213,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value></value>
+							<value>desktopFile,existingFile</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
