@@ -8,12 +8,12 @@
 	<objectId>fb05e57f-efd7-7496-fade-0a3efc64616b</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>1</folder-name>
-	<internal-name>1</internal-name>
-	<navLabel>1</navLabel>
-	<name_s>1</name_s>
-	<kl_s>500g</kl_s>
-	<price_s>10000</price_s>
-	<sku_s>444</sku_s>
+	<internal-name>Shrimp Flavored Fish Balls</internal-name>
+	<navLabel>Shrimp Flavored Fish Balls</navLabel>
+	<name_s>Shrimp Flavored Fish Balls</name_s>
+	<kl_s>500g/pack</kl_s>
+	<price_s>30000</price_s>
+	<sku_s>8936082676135</sku_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<isHot_b>true</isHot_b>
@@ -34,16 +34,20 @@
 	<objectId>f258a196-2307-399f-e564-fbe1b5f2405f</objectId>
 	<file-name>f258a196-2307-399f-e564-fbe1b5f2405f.xml</file-name>
 	<internal-name>S</internal-name>
-	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<image_s>/static-assets/images/header/Mavinfoodslide6).jpg</image_s>
 	<createdDate>2021-10-04T09:39:28.937Z</createdDate>
 	<createdDate_dt>2021-10-04T09:39:28.937Z</createdDate_dt>
-	<lastModifiedDate>2021-10-04T09:39:28.937Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-04T09:39:28.937Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T09:08:35.558Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T09:08:35.558Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;Flavored shrimp fish balls also have fish as the main ingredient, but they have a characteristic aroma of shrimp, and especially have a red-orange color like the real color of the cooked shrimp's intestines. Therefore, shrimp flavor fish balls will be very eye-catching with young children, and suitable as a comprehensive nutritional supplement menu for families in daily meals.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;User manual:&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="text-align: justify;"&gt;&amp;bull;Defrost for 20-30 minutes.&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;&amp;bull;Use to fry or cook your favorite dishes.&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;&amp;bull;Use up the product within 24 hours of opening the package.&lt;/div&gt;</content_html>
 	<createdDate>2021-10-04T08:56:43.577Z</createdDate>
 	<createdDate_dt>2021-10-04T08:56:43.577Z</createdDate_dt>
-	<lastModifiedDate>2021-10-04T08:56:43.577Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-04T08:56:43.577Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-08T08:49:30.239Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-08T08:49:30.239Z</lastModifiedDate_dt>
 </page>
