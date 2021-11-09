@@ -23,11 +23,11 @@
 	<objectId>3bcaccfc-5b77-0713-6338-8b28834b9696</objectId>
 	<file-name>3bcaccfc-5b77-0713-6338-8b28834b9696.xml</file-name>
 	<internal-name>s</internal-name>
-	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<image_s>/static-assets/images/header/HomeslideEN2.jpg</image_s>
 	<createdDate>2021-09-30T04:07:39.961Z</createdDate>
 	<createdDate_dt>2021-09-30T04:07:39.961Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T04:07:39.961Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T04:07:39.961Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T03:09:26.143Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T03:09:26.143Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c6293a26-2203-4ee0-a9b1-43e34192c226</key>
@@ -56,6 +56,6 @@
 	</item></section_o>
 	<createdDate>2021-09-30T04:05:15.881Z</createdDate>
 	<createdDate_dt>2021-09-30T04:05:15.881Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T04:05:15.881Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T04:05:15.881Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T03:09:21.415Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T03:09:21.415Z</lastModifiedDate_dt>
 </page>
