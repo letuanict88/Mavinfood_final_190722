@@ -19,13 +19,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>60ed</objectGroupId>
 	<objectId>60ed89e6-3771-8121-18c0-8589f1a51cd9</objectId>
-	<image_s>/static-assets/images/header/HomeslideEN5.jpg</image_s>
+	<image_s>/static-assets/images/header/MavinfoodslideTA1.jpg</image_s>
 	<file-name>60ed89e6-3771-8121-18c0-8589f1a51cd9.xml</file-name>
 	<internal-name>Slide</internal-name>
 	<createdDate>2021-11-08T02:39:03.724Z</createdDate>
 	<createdDate_dt>2021-11-08T02:39:03.724Z</createdDate_dt>
-	<lastModifiedDate>2021-11-09T03:08:06.797Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-09T03:08:06.797Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T05:21:21.737Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T05:21:21.737Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>3fdf6f36-e6a2-3db3-fc02-d7d2c3c35ed5</key>
@@ -49,6 +49,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2021-11-08T02:38:33.386Z</createdDate>
 	<createdDate_dt>2021-11-08T02:38:33.386Z</createdDate_dt>
-	<lastModifiedDate>2021-11-09T03:08:02.561Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-09T03:08:02.561Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T05:21:16.408Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T05:21:16.408Z</lastModifiedDate_dt>
 </page>
