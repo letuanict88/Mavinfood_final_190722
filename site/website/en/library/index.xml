@@ -23,11 +23,11 @@
 	<objectId>205b4c9f-4aa3-16fc-442c-dc76083bb9cf</objectId>
 	<file-name>205b4c9f-4aa3-16fc-442c-dc76083bb9cf.xml</file-name>
 	<internal-name>S</internal-name>
-	<image_s/>
+	<image_s>/static-assets/images/header/MavinfoodslideTA1.jpg</image_s>
 	<createdDate>2021-10-27T10:31:14.817Z</createdDate>
 	<createdDate_dt>2021-10-27T10:31:14.817Z</createdDate_dt>
-	<lastModifiedDate>2021-10-27T10:31:14.817Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-27T10:31:14.817Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T05:23:43.258Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T05:23:43.258Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>58b0319e-9c1a-06fc-dcde-99a4f9f6eae8</key>
@@ -60,6 +60,6 @@
 	</item></section_o>
 	<createdDate>2021-10-27T10:30:55.442Z</createdDate>
 	<createdDate_dt>2021-10-27T10:30:55.442Z</createdDate_dt>
-	<lastModifiedDate>2021-10-27T10:35:06.718Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-27T10:35:06.718Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T05:23:37.281Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T05:23:37.281Z</lastModifiedDate_dt>
 </page>
