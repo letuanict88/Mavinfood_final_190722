@@ -23,11 +23,11 @@
 	<objectId>3d556a0c-5173-e56d-5cef-67956ef79f60</objectId>
 	<internal-name>S</internal-name>
 	<file-name>3d556a0c-5173-e56d-5cef-67956ef79f60.xml</file-name>
-	<image_s>/static-assets/images/header/HomeslideEN1.jpg</image_s>
+	<image_s>/static-assets/images/header/MavinfoodslideTA2.jpg</image_s>
 	<createdDate>2021-09-30T03:51:02.676Z</createdDate>
 	<createdDate_dt>2021-09-30T03:51:02.676Z</createdDate_dt>
-	<lastModifiedDate>2021-11-09T03:11:22.913Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-09T03:11:22.913Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T05:19:06.649Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T05:19:06.649Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>feb83cfa-ae50-d545-9c88-c5f65e4bb068</key>
@@ -53,6 +53,6 @@
 	</item></section_o>
 	<createdDate>2021-09-30T03:50:27.605Z</createdDate>
 	<createdDate_dt>2021-09-30T03:50:27.605Z</createdDate_dt>
-	<lastModifiedDate>2021-11-09T03:11:15.490Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-09T03:11:15.490Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T05:18:55.070Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T05:18:55.070Z</lastModifiedDate_dt>
 </page>
