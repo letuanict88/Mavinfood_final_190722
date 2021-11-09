@@ -42,20 +42,20 @@
 	<cskh_o item-list="true">	<item>	<name_s>Distribution network</name_s>
 	<link_s>/en/distribution-network</link_s>
 	</item>	<item>	<name_s>Promotion</name_s>
-	<link_s>/en/promotion</link_s>
+	<link_s>/en/customer-service/promotion</link_s>
 	</item>	<item>	<name_s>Q&amp;A</name_s>
-	<link_s>/en/qa</link_s>
+	<link_s>/en/customer-service/qa</link_s>
 	</item></cskh_o>
 	<createdDate>2021-09-30T04:36:20.802Z</createdDate>
 	<createdDate_dt>2021-09-30T04:36:20.802Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T04:36:20.802Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T04:36:20.802Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T02:23:12.397Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T02:23:12.397Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<internal-name>Customer Service</internal-name>
 	<navLabel>Customer Service</navLabel>
 	<createdDate>2021-09-30T04:35:09.974Z</createdDate>
 	<createdDate_dt>2021-09-30T04:35:09.974Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T04:35:09.974Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T04:35:09.974Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T02:23:00.609Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T02:23:00.609Z</lastModifiedDate_dt>
 </page>
