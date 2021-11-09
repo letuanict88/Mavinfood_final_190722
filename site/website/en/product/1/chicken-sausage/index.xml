@@ -6,8 +6,8 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>7cea</objectGroupId>
 	<objectId>7ceac051-ff5a-d653-f01e-ee42fd0cb2a5</objectId>
-	<sptype_o>	<item>	<key> sausage</key>
-	<value_smv> sausage</value_smv>
+	<sptype_o>	<item>	<key>xx</key>
+	<value_smv>xx</value_smv>
 	</item></sptype_o>
 	<isHot_b>false</isHot_b>
 	<file-name>index.xml</file-name>
@@ -49,6 +49,6 @@
 &lt;div style="text-align: justify;"&gt;-Taste: natural chicken flavor, bar and does not create a feeling of nausea for people to eat.&lt;/div&gt;</content_html>
 	<createdDate>2021-11-08T08:02:00.813Z</createdDate>
 	<createdDate_dt>2021-11-08T08:02:00.813Z</createdDate_dt>
-	<lastModifiedDate>2021-11-08T08:08:21.864Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-11-08T08:08:21.864Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-09T02:21:03.390Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-09T02:21:03.390Z</lastModifiedDate_dt>
 </page>
