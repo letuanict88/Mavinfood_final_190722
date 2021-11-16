@@ -362,4 +362,30 @@
          </allowed-permissions>
       </rule>
    </role>
+   <role name="editor">
+   <rule regex="/site/website/.*">
+     <allowed-permissions>
+       <permission>Read</permission>
+       <permission>Write</permission>
+       <permission>Create Content</permission>
+       <permission>Create Folder</permission>
+       <permission>Publish</permission>
+     </allowed-permissions>
+   </rule>
+   <rule regex="/static-assets/.*">
+     <allowed-permissions>
+       <permission>Read</permission>
+       <permission>Write</permission>
+       <permission>Delete</permission>
+       <permission>Create Content</permission>
+       <permission>Create Folder</permission>
+       <permission>Publish</permission>
+     </allowed-permissions>
+   </rule>
+   <rule regex="~DASHBOARD~">
+     <allowed-permissions>
+       <permission>Publish</permission>
+     </allowed-permissions>
+   </rule>
+ </role>
 </permissions>
