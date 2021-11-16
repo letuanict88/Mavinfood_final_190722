@@ -66,5 +66,8 @@
         <group name="site_reviewer">
             <role>reviewer</role>
         </group>
+         <group name="Editor">
+            <role>editor</role>
+        </group>
     </groups>
 </role-mappings>
