@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cd25</objectGroupId>
+	<objectId>cd25d720-e9b1-b853-9eb5-22cb912e8777</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Mavin tham gia chia sẻ tại Diễn đàn Kinh doanh IoT Châu Á (AIBP)</internal-name>
+	<navLabel>Mavin tham gia chia sẻ tại Diễn đàn Kinh doanh IoT Châu Á (AIBP)</navLabel>
+	<title_s>Mavin tham gia chia sẻ tại Diễn đàn Kinh doanh IoT Châu Á (AIBP)</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mavin-tham-gia-dien-dan-iot</folder-name>
+	<image_s>/static-assets/images/new/AIBP showcase.png</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>f8898870-d591-f87d-7739-289e16a24800</key>
+	<value>Slide</value>
+<component id="f8898870-d591-f87d-7739-289e16a24800">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f889</objectGroupId>
+	<objectId>f8898870-d591-f87d-7739-289e16a24800</objectId>
+	<file-name>f8898870-d591-f87d-7739-289e16a24800.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/Mavinfoodslide1.jpg</image_s>
+	<createdDate>2021-11-23T07:41:03.905Z</createdDate>
+	<createdDate_dt>2021-11-23T07:41:03.905Z</createdDate_dt>
+	<lastModifiedDate>2021-11-23T07:42:37.257Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-23T07:42:37.257Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Tại phi&amp;ecirc;n thảo luận với chủ đề &amp;ldquo;Suy nghĩ lại về Chuỗi gi&amp;aacute; trị&amp;rdquo; ng&amp;agrave;y 26/10/2021 trong chuỗi c&amp;aacute;c sự kiện của Diễn đ&amp;agrave;n Kinh doanh IoT Ch&amp;acirc;u &amp;Aacute; (AIBP) năm 2021, &amp;ocirc;ng David John Whitehead, Chủ tịch HĐQT Mavin đ&amp;atilde; chia sẻ về chặng đường chuyển đổi số của Mavin trong 5 năm 2019 &amp;ndash; 2023 v&amp;agrave; những mục ti&amp;ecirc;u trong tương lai để trở th&amp;agrave;nh một doanh nghiệp số h&amp;oacute;a s&amp;aacute;ng tạo nhất trong lĩnh vực n&amp;ocirc;ng nghiệp tại Việt Nam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Phi&amp;ecirc;n thảo luận &amp;ldquo;&lt;strong&gt;Suy nghĩ lại về Chuỗi gi&amp;aacute; trị&lt;/strong&gt;&amp;rdquo; được thực hiện online tr&amp;ecirc;n nền tảng Zoom&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo Chủ tịch Mavin, chương tr&amp;igrave;nh chuyển đổi số của Mavin c&amp;oacute; 4 trụ cột ch&amp;iacute;nh bao gồm: ERP, Điện to&amp;aacute;n đ&amp;aacute;m m&amp;acirc;y, Số h&amp;oacute;a v&amp;agrave; Sản xuất th&amp;ocirc;ng minh. Trong b&amp;agrave;i tr&amp;igrave;nh b&amp;agrave;y của m&amp;igrave;nh, Chủ tịch Mavin đ&amp;atilde; giới thiệu về c&amp;aacute;c Dự &amp;aacute;n số h&amp;oacute;a của Mavin như: M&amp;ocirc; h&amp;igrave;nh Nh&amp;agrave; m&amp;aacute;y c&amp;aacute;m th&amp;ocirc;ng minh ứng dụng IoT, Dự &amp;aacute;n quản l&amp;yacute; sản xuất tại trại heo PORCITEC, ứng dụng Điện to&amp;aacute;n đ&amp;aacute;m m&amp;acirc;y,&amp;hellip; v&amp;agrave; những lợi &amp;iacute;ch của c&amp;aacute;c Dự &amp;aacute;n n&amp;agrave;y đối với hoạt động của Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;Ocirc;ng David chia sẻ, h&amp;agrave;nh tr&amp;igrave;nh chuyển đổi số của Mavin dựa tr&amp;ecirc;n một tầm nh&amp;igrave;n mạnh mẽ, c&amp;acirc;n nhắc c&amp;aacute;c cơ hội về tự động h&amp;oacute;a v&amp;agrave; xu hướng ứng dụng c&amp;ocirc;ng nghệ cao trong ng&amp;agrave;nh n&amp;ocirc;ng nghiệp tại Việt Nam. Trước &amp;aacute;p lực cạnh tranh với rất nhiều doanh nghiệp lớn v&amp;agrave; tham vọng ph&amp;aacute;t triển to&amp;agrave;n cầu, Mavin đ&amp;atilde; lựa chọn giải ph&amp;aacute;p thực hiện chuyển đổi số với c&amp;aacute;c giải ph&amp;aacute;p tốt nhất hiện nay.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin l&amp;agrave; 1 trong 3 ứng cử vi&amp;ecirc;n duy nhất tại Việt Nam tham dự Diễn đ&amp;agrave;n IoT Ch&amp;acirc;u &amp;Aacute; (AIBP) năm 2021 v&amp;agrave; cũng l&amp;agrave; 1 trong 3 ứng cử vi&amp;ecirc;n chung cuộc cho Giải thưởng Doanh nghiệp Đổi mới Ch&amp;acirc;u &amp;Aacute; năm 2021 do AIBP đề cử.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Diễn đ&amp;agrave;n Kinh doanh IoT Ch&amp;acirc;u &amp;Aacute; (AIBP) l&amp;agrave; nơi kết nối với c&amp;aacute;c cơ quan ch&amp;iacute;nh phủ trung ương v&amp;agrave; địa phương của c&amp;aacute;c quốc gia, c&amp;aacute;c c&amp;ocirc;ng ty đa quốc gia ở c&amp;aacute;c ng&amp;agrave;nh sản xuất v&amp;agrave; dịch vụ, khoa học v&amp;agrave; gi&amp;aacute;o dục khu vực ch&amp;acirc;u &amp;Aacute; trong việc tiếp cận v&amp;agrave; sử dụng IoT. AIBP gắn kết c&amp;aacute;c chiến lược chuyển đổi c&amp;ocirc;ng nghệ số, th&amp;uacute;c đẩy c&amp;aacute;c tổ chức, doanh nghiệp t&amp;igrave;m hiểu về khả năng cung cấp giải ph&amp;aacute;p IoT quốc tế với kh&amp;aacute;ch h&amp;agrave;ng tiềm năng v&amp;agrave; đối t&amp;aacute;c của họ tại c&amp;aacute;c thị trường địa phương để ph&amp;aacute;t triển kinh doanh trong khu vực ch&amp;acirc;u &amp;Aacute;.&lt;/p&gt;</content_html>
+	<createdDate>2021-11-23T07:33:31.471Z</createdDate>
+	<createdDate_dt>2021-11-23T07:33:31.471Z</createdDate_dt>
+	<lastModifiedDate>2021-11-23T07:33:31.471Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-23T07:33:31.471Z</lastModifiedDate_dt>
+	<date_dt>2021-11-23T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
