@@ -39,7 +39,7 @@
                 <div class="mb-3"><a href="https://www.facebook.com/mavinfood"><img class="img-fluid" src="/static-assets/dist/images/like-page.jpg"></a></div>
                 <div class="d-flex justify-content-between">
                   <div class="flex-shrink-0">
-                    <a href="http://online.gov.vn/Home/WebDetails/90252"><img alt='' title='' src="http://online.gov.vn/Content/EndUser/LogoCCDVSaleNoti/logoSaleNoti.png" width=110 /></a>
+                    <a href="http://online.gov.vn/Home/WebDetails/90252"><img alt='' title='' src="/static-assets/images/logoSaleNoti.png" width=110 /></a>
                   </div>
                   <div class="text-right" style="text-align: end; font-size: 0.85em;">
                     Bản quyền thuộc về <br>Mavin Foods 2021
